@@ -17,4 +17,7 @@ def divide(x,y):
 def square(x,y): 
 
     pass 
- 
+
+def mul(x,y):
+
+    return x*y
