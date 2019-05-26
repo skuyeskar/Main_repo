@@ -10,7 +10,7 @@ def multiply(x,y):
 
     pass 
 
-def divide(x,y): 
+def div(x,y): 
 
     pass 
 
