@@ -6,7 +6,7 @@ def subtract(x,y):
 
     pass 
 
-def multiply(x,y): 
+def mult(x,y): 
 
     pass 
 
@@ -14,10 +14,10 @@ def div(x,y):
 
     pass 
 
+<<<<<<< HEAD
 def sqx,y): 
 
     pass 
+=======
+>>>>>>> 9b0f11a... new edit
 
-def mul(x,y):
-
-    return x*y
